@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Este proyecto inicia como una guia de buenas practicas de angular
+
+- Para crear proyecto + app-routing.module.ts(root) : ng new _________ --routing        
+- Para crear module + __-routing.module.ts (child): ng module _______ --routing
+- Para crear Componentes: ng generate component _______/_______
+
+Ojo : las lineas en blanco son para agregar los nombres y de crear componentes la primera linea es para colocar el nombre de la carpeta y el siguiente es el nombre que tendra el componente. 
